@@ -1,0 +1,97 @@
+#home {
+    background-image: url('../../assets/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-around;
+
+    height: 100vh;
+    width: 100vw;
+
+    section {
+        background-color: rgba($color: white, $alpha: 0.3);
+        border-radius: 5px;
+        padding-left: $md;
+        padding-right: $md;
+        height: 100%;
+        width: 40%;
+    }
+
+    .biohazard {
+        color: black;
+        
+    }
+
+    h1 {
+        text-align: center;
+        color: $licorice;
+        font-size: 50px;
+        font-weight: 400;
+        margin-top: 0px;
+        color: white;
+        text-shadow: 1px 1px black;
+    }
+
+    .play-button-container {
+        width: 100%;
+    }
+
+    a.play-button {
+        background-color: $green;
+        color: #fff;
+        display: block;
+        cursor: pointer;
+        padding: $normal;
+        border-radius: $button-radius;
+        text-align: center;
+        transition: 0.3s linear all;
+    }
+
+    a.play-button:hover {
+        background-color: darken($green, 10%);
+    }
+
+    .auth-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: $sm;
+    }
+
+    #login-button {
+        background-color: #2979FF;
+        
+
+    }
+
+    #login-button:hover {
+        background-color: darken(#2979FF, 10%);
+
+    }
+
+    #signup-button {
+        background-color: #2191F3;
+    }
+
+    #signup-button:hover {
+        background-color: darken(#2191F3, 10%);
+    }
+
+    .auth-container .auth-buttons {
+        color: #fff;
+        cursor: pointer;
+        border-radius: 30px;
+        padding: $normal 0;
+        text-align: center;
+        transition: 0.3s linear all;
+        width: 45%;
+    }
+}
+
+@media (max-width: 768px) {
+    #home section {
+        padding: 0 $normal;
+        width: 100%;
+        height: 100%;
+    }
+}

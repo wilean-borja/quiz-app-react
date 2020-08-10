@@ -1,0 +1,136 @@
+[
+    {
+        "question": "Where did the COVID 19 originate?",
+        "optionA": "Tokyo, Japan",
+        "optionB": "Wuhan, China",
+        "optionC": "Seoul, South Korea",
+        "optionD": "Kuala Lumpur, Malaysia",
+        "answer": "Wuhan, China"
+    },
+
+    {
+        "question": "What is the disease called?",
+        "optionA": "COVID-19",
+        "optionB": "Influenza",
+        "optionC": "SARS-CoV-2",
+        "optionD": "MERS",
+        "answer": "COVID-19"
+    },
+
+    {
+        "question": "What is the virus called?",
+        "optionA": "COVID-19",
+        "optionB": "Influenza",
+        "optionC": "SARS-CoV-2",
+        "optionD": "MERS",
+        "answer": "SARS-CoV-2"
+    },
+
+    {
+        "question": "How can you protect yourself from the virus?",
+        "optionA": "Avoid close contact with people",
+        "optionB": "Avoid touching your face",
+        "optionC": "Wash your hands frequently",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+
+    {
+        "question": "Who are more vulnerable to the virus?",
+        "optionA": "Older people",
+        "optionB": "People with pre-existing medical condition (asthma, diabetes, etc.)",
+        "optionC": "Both A and B",
+        "optionD": "None of the above",
+        "answer": "Both A and B"
+    },
+
+    {
+        "question": "Does exposing yourself to temperatures higher than 25°C protect you from the COVID-19?",
+        "optionA": "Yes, temperatures higher than 25°C will protect you from the COVID-19",
+        "optionB": "No, temperatures higher than 25°C will not protect you from the COVID-19",
+        "optionC": "No, only cold weather will help you.",
+        "optionD": "Maybe",
+        "answer": "No, temperatures higher than 25°C will not protect you from the COVID-19"
+    },
+
+    {
+        "question": "If you catch COVID-19, will yo have it for life?",
+        "optionA": "Yes, once you get it you will have it for life",
+        "optionB": "No, you can recover and you will not have it for life",
+        "optionC": "No, you can recover but you will have it for life",
+        "optionD": "None of the above",
+        "answer": "No, you can recover and you will not have it for life"
+    },
+
+    {
+        "question": "What is the best way to know if you acquired COVID-19?",
+        "optionA": "Breathing exercises",
+        "optionB": "Laboratory test",
+        "optionC": "Wait for symptoms to show",
+        "optionD": "No need for test, you will feel it when you have it",
+        "answer": "Laboratory test"
+    },
+
+    {
+        "question": "Does drinking alcohol beverages help prevent COVID-19?",
+        "optionA": "Yes, it helps",
+        "optionB": "Yes, being drunk will make you forget about it",
+        "optionC": "No, it does not protect you from COVID-19",
+        "optionD": "No, it does not protect you from COVID-19 and can be dangerous",
+        "answer": "No, it does not protect you from COVID-19 and can be dangerous"
+    },
+
+    {
+        "question": "Can spraying alcohol or chlorine all over your body kill COVID-19?",
+        "optionA": "Yes, sanitation is the best solution",
+        "optionB": "Yes, but only use alcohol",
+        "optionC": "No, sraying them won't kill the virus that already entered your body",
+        "optionD": "None of the above",
+        "answer": "No, sraying them won't kill the virus that already entered your body"
+    },
+
+    {
+        "question": "Do vaccine against pneumonia protect you against the new coronavirus?",
+        "optionA": "Yes, you must have both pneumococcal and Hib vaccine",
+        "optionB": "Yes, either pneumococcal or Hib vaccine will protect you",
+        "optionC": "No, this virus is different and needs its own vaccine",
+        "optionD": "None of the above",
+        "answer": "No, this virus is different and needs its own vaccine"
+    },
+
+    {
+        "question": "Are antibiotics effective in preventing and treating the new coronavirus?",
+        "optionA": "Yes, they are effective",
+        "optionB": "To a certain degree, they are effective",
+        "optionC": "No, antibiotics do not work against viruses, only bacteria",
+        "optionD": "Maybe",
+        "answer": "No, antibiotics do not work against viruses, only bacteria"
+    },
+
+    {
+        "question": "Can mosquitos transmit the new coronavirus?",
+        "optionA": "Yes",
+        "optionB": "Yes, but only to older people",
+        "optionC": "Yes, but only to those with pre-existing medical conditions",
+        "optionD": "No",
+        "answer": "No"
+    },
+
+    {
+        "question": "Does taking a hot bath protect you from the new coronavirus?",
+        "optionA": "No, a hot bath does not protect you from COVID-19",
+        "optionB": "No, but a cold one does",
+        "optionC": "Yes, a hot bath will protect you from COVID-19",
+        "optionD": "Yes, but temperature has to be higher than 25°C",
+        "answer": "No, a hot bath does not protect you from COVID-19"
+    },
+
+    {
+        "question": "Does cold weather and snow kill the new coronavirus?",
+        "optionA": "Yes",
+        "optionB": "Yes, but temperature has to be below 0°C",
+        "optionC": "No, they do not",
+        "optionD": "No, only hot weather does",
+        "answer": "No, they do not"
+    }
+]

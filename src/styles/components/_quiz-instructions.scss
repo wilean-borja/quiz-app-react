@@ -1,0 +1,49 @@
+.instructions {
+    background-image: url('../../assets/images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    border: 1px solid darken(white, 10%);
+    border-radius: 5px;
+    padding: $sm $lg;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    text-shadow: 1px black;
+    text-align: right;
+
+    h1 {
+        color: white;
+        font-size: $md;
+        text-align: right;
+        text-shadow: 1px black;
+    }
+
+    .lifeline {
+        position: relative;
+        top: -3px;
+    }
+
+    .lifeline-icon {
+        color: $green;
+        cursor: pointer;
+    }
+
+    .browser-default {
+        padding-left: 30px;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    img {
+        width: 80%;
+        height: 50%;
+    }
+    
+}
+
+@media (max-width: $md-breakpoint) {
+    .instructions img {
+        width: 100% !important;
+        height: 150% !important;
+    }
+}
